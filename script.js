@@ -14,6 +14,10 @@ function updatePlayIcon() {
     return true;
 }
 
+//update progress and timestamp
+function updateProgress() {
+    return true;
+}
 
 //Event Listeners
 video.addEventListener('click', toggleVideoStatus);
